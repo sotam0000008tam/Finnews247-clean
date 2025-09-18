@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://finnews247.com
+
+# Sitemaps
+Sitemap: https://finnews247.com/sitemap.xml
