@@ -152,5 +152,16 @@
     "date": "2025-09-18 08:20",
     "image": "signal14.png",
     "excerpt": "Buy (Hold) SUI at 3.825, target 15$, stoploss 3.0512."
+  },
+  {
+    "id": 15,
+    "pair": "BROCCOLI714/USDT.P",
+    "type": "Long",
+    "entry": "0.03319",
+    "target": "detail",
+    "stoploss": "0.0188",
+    "date": "2025-09-18 14:50",
+    "image": "signal15.png",
+    "excerpt": "Long BROCCOLI714 at 0.03319, target: in the green area on the picture, stoploss 0.0188."
   }
 ]
