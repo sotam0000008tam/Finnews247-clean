@@ -163,5 +163,16 @@
     "date": "2025-09-18 14:50",
     "image": "signal15.png",
     "excerpt": "Long BROCCOLI714 at 0.03319, target: in the green area on the picture, stoploss 0.0188."
+  },
+  {
+    "id": 16,
+    "pair": "MOODENG/USDT.P",
+    "type": "Long",
+    "entry": "0.196",
+    "target": "detail",
+    "stoploss": "0.12",
+    "date": "2025-09-18 22:50",
+    "image": "signal16.png",
+    "excerpt": "Long MOODENG at 0.196, target: in the green area on the picture, stoploss 0.12."
   }
 ]
