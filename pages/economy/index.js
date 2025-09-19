@@ -63,7 +63,7 @@ export async function getServerSideProps({ query }) {
   const all = JSON.parse(raw).filter((p) => p.category === "Economy");
   all.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-  const perPage = 10;
+  const perPage = 50;
   const page = Math.max(1, parseInt(query.page || "1", 10));
   const totalPages = Math.max(1, Math.ceil(all.length / perPage));
 

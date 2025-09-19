@@ -174,5 +174,27 @@
     "date": "2025-09-18 22:50",
     "image": "signal16.png",
     "excerpt": "Long MOODENG at 0.196, target: in the green area on the picture, stoploss 0.12."
+  },
+  {
+    "id": 17,
+    "pair": "ETH/USDT",
+    "type": "Long",
+    "entry": "4478",
+    "target": "9000",
+    "stoploss": "4054",
+    "date": "2025-09-19 09:00",
+    "image": "signal17.png",
+    "excerpt": "Long ETH at 4478, target: 9000, stoploss 4054."
+  },
+  {
+    "id": 18,
+    "pair": "AIN/USDT.P",
+    "type": "Long",
+    "entry": "0.15161",
+    "target": "detail",
+    "stoploss": "0.096",
+    "date": "2025-09-19 09:14",
+    "image": "signal18.png",
+    "excerpt": "Long AIN at 0.15161, target: in the green area on the picture, stoploss 0.096."
   }
 ]
