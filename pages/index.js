@@ -100,7 +100,7 @@ export default function Home({ posts, trending }) {
             Latest Finance & Market News
           </h1>
           <div className="grid md:grid-cols-2 gap-6">
-            {posts.slice(0, 50).map((p) => (
+            {posts.slice(0, 30).map((p) => (
               <PostCard key={p.slug} post={p} />
             ))}
           </div>

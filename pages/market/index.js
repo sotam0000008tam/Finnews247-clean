@@ -63,7 +63,7 @@ export async function getServerSideProps({ query }) {
   const all = JSON.parse(raw).filter((p) => p.category === "Market");
   all.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-  const perPage = 50; // ✅ nếu muốn đổi số bài / trang, chỉnh ở đây
+  const perPage = 30; // ✅ nếu muốn đổi số bài / trang, chỉnh ở đây
   const page = Math.max(1, parseInt(query.page || "1", 10));
   const totalPages = Math.max(1, Math.ceil(all.length / perPage));
 
